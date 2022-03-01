@@ -1,1 +1,2856 @@
-
+{
+    "statuses": [
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715018703126531,
+            "id_str": "1498715018703126531",
+            "text": "RT @AlertaNews24: 🇷🇺 | Valery Gergiev, el maestro ruso estrella y partidario destacado del presidente Vladimir Putin de Rusia, fue destitui…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AlertaNews24",
+                        "name": "Alerta News 24",
+                        "id": 39692424,
+                        "id_str": "39692424",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 379969913,
+                "id_str": "379969913",
+                "name": "🇪🇦 🇺🇦",
+                "screen_name": "8x8_asa",
+                "location": "Madrid",
+                "description": "Fuck, PUTIN!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 709,
+                "friends_count": 218,
+                "listed_count": 14,
+                "created_at": "Sun Sep 25 21:20:37 +0000 2011",
+                "favourites_count": 22920,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 666,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "182782",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1497360060510576642/V9WHXflu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497360060510576642/V9WHXflu_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/379969913/1645830507",
+                "profile_link_color": "0D0DD9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "E2F0EE",
+                "profile_text_color": "1F08CC",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 17:31:28 +0000 2022",
+                "id": 1498712536350343171,
+                "id_str": "1498712536350343171",
+                "text": "🇷🇺 | Valery Gergiev, el maestro ruso estrella y partidario destacado del presidente Vladimir Putin de Rusia, fue de… https://t.co/L0ozkacFvz",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/L0ozkacFvz",
+                            "expanded_url": "https://twitter.com/i/web/status/1498712536350343171",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 39692424,
+                    "id_str": "39692424",
+                    "name": "Alerta News 24",
+                    "screen_name": "AlertaNews24",
+                    "location": "Global",
+                    "description": "Alertas desde todas partes del mundo las 24 horas en tiempo real. (Imagen 24/02: 🇷🇺🇺🇦 | Vladimir Putin ordena incursión militar al este de Ucrania).",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1059810,
+                    "friends_count": 391,
+                    "listed_count": 2868,
+                    "created_at": "Wed May 13 05:02:36 +0000 2009",
+                    "favourites_count": 138,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 80501,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1880036851/13_Mayo_2011_normal.JPG",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1880036851/13_Mayo_2011_normal.JPG",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/39692424/1645672311",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 171,
+                "favorite_count": 1242,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 171,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715018459693057,
+            "id_str": "1498715018459693057",
+            "text": "RT @JoyAnnReid: The moral math in this conflict over Ukraine couldn’t be simpler: you’re either with Zelensky, Biden and those who believe…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JoyAnnReid",
+                        "name": "Joy-Ann (Pro-Democracy) Reid 😷",
+                        "id": 49698134,
+                        "id_str": "49698134",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 46549649,
+                "id_str": "46549649",
+                "name": "Marcia 🌊#RESIST🇺🇦 🌈#EQUALITY (Science FTW)",
+                "screen_name": "FireFoxxxy",
+                "location": "Cali",
+                "description": "Humanist,Atheist,Democrat ❤\nDirt bikes,jet skiing,camping,designing, music,gaming  #TEAMJOE\n#TRUMPFORPRISON #TEACHCRITICALRACETHEORY #BLM #NOMAGATS",
+                "url": "https://t.co/zy3oxrOqXa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zy3oxrOqXa",
+                                "expanded_url": "http://ffrf.org",
+                                "display_url": "ffrf.org",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7919,
+                "friends_count": 8673,
+                "listed_count": 77,
+                "created_at": "Fri Jun 12 01:48:44 +0000 2009",
+                "favourites_count": 168099,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 152853,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "268EC1",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1162358358/Me_Halloween_2010_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1162358358/Me_Halloween_2010_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/46549649/1579854331",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "A4B45D",
+                "profile_sidebar_fill_color": "CEDBD7",
+                "profile_text_color": "635026",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 15:51:21 +0000 2022",
+                "id": 1498687344513327110,
+                "id_str": "1498687344513327110",
+                "text": "The moral math in this conflict over Ukraine couldn’t be simpler: you’re either with Zelensky, Biden and those who… https://t.co/M5i8D5KiHr",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/M5i8D5KiHr",
+                            "expanded_url": "https://twitter.com/i/web/status/1498687344513327110",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 49698134,
+                    "id_str": "49698134",
+                    "name": "Joy-Ann (Pro-Democracy) Reid 😷",
+                    "screen_name": "JoyAnnReid",
+                    "location": "USA",
+                    "description": "\"You must be bold, brave, and courageous and find a way... to get in good trouble.\" -John Lewis #TheReidOut ❤️ #reiders. Likes are sometimes just bookmarks.",
+                    "url": "https://t.co/xygunHjCYY",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/xygunHjCYY",
+                                    "expanded_url": "http://joyannreid.com",
+                                    "display_url": "joyannreid.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2108812,
+                    "friends_count": 7278,
+                    "listed_count": 12656,
+                    "created_at": "Mon Jun 22 17:29:54 +0000 2009",
+                    "favourites_count": 71254,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 192100,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1406766260449382401/jgTy_gtz_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406766260449382401/jgTy_gtz_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/49698134/1583282939",
+                    "profile_link_color": "0042A6",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1179,
+                "favorite_count": 6200,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1179,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715018199814148,
+            "id_str": "1498715018199814148",
+            "text": "RT @xz32f: En 1994 Ucrania se desprendió de 1.900 bombas nucleares heredadas del la URSS a cambio de que Rusia reconociera sus fronteras e…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "xz32f",
+                        "name": "Táchira",
+                        "id": 1939512246,
+                        "id_str": "1939512246",
+                        "indices": [
+                            3,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1039256657623179266,
+                "id_str": "1039256657623179266",
+                "name": "Joe M 2018🇺🇦 Slava Ukraini.",
+                "screen_name": "Fer2018M",
+                "location": "",
+                "description": "@Joem2018",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 135,
+                "friends_count": 143,
+                "listed_count": 0,
+                "created_at": "Mon Sep 10 20:57:50 +0000 2018",
+                "favourites_count": 9945,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6568,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Feb 28 19:10:45 +0000 2022",
+                "id": 1498375135228829696,
+                "id_str": "1498375135228829696",
+                "text": "En 1994 Ucrania se desprendió de 1.900 bombas nucleares heredadas del la URSS a cambio de que Rusia reconociera sus… https://t.co/JmYEvKXtrq",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/JmYEvKXtrq",
+                            "expanded_url": "https://twitter.com/i/web/status/1498375135228829696",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1939512246,
+                    "id_str": "1939512246",
+                    "name": "Táchira",
+                    "screen_name": "xz32f",
+                    "location": "",
+                    "description": "“长期的感情，长期的后果”",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 6978,
+                    "friends_count": 6454,
+                    "listed_count": 11,
+                    "created_at": "Sun Oct 06 02:42:32 +0000 2013",
+                    "favourites_count": 288,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 2637,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1497492217447002115/mKOFFOFy_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497492217447002115/mKOFFOFy_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939512246/1624020783",
+                    "profile_link_color": "071910",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "000000",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 378,
+                "favorite_count": 1082,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 378,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715018124316679,
+            "id_str": "1498715018124316679",
+            "text": "RT @YourAnonNews: Leave 5 star reviews (unless its Russian State owned, then feel free to leave 1 star ratings). The point is to push infor…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "YourAnonNews",
+                        "name": "Anonymous",
+                        "id": 279390084,
+                        "id_str": "279390084",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1339052738,
+                "id_str": "1339052738",
+                "name": "Viva",
+                "screen_name": "moraInesalto",
+                "location": "",
+                "description": "✨fan account✨ she/they✨",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2324,
+                "friends_count": 910,
+                "listed_count": 49,
+                "created_at": "Tue Apr 09 12:21:19 +0000 2013",
+                "favourites_count": 197,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 518125,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1448041957977214997/3oM_CPqj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448041957977214997/3oM_CPqj_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339052738/1634075081",
+                "profile_link_color": "112222",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Feb 28 17:01:30 +0000 2022",
+                "id": 1498342609990860804,
+                "id_str": "1498342609990860804",
+                "text": "Leave 5 star reviews (unless its Russian State owned, then feel free to leave 1 star ratings). The point is to push… https://t.co/QpqxSh1qU1",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/QpqxSh1qU1",
+                            "expanded_url": "https://twitter.com/i/web/status/1498342609990860804",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": 1498337491056836610,
+                "in_reply_to_status_id_str": "1498337491056836610",
+                "in_reply_to_user_id": 279390084,
+                "in_reply_to_user_id_str": "279390084",
+                "in_reply_to_screen_name": "YourAnonNews",
+                "user": {
+                    "id": 279390084,
+                    "id_str": "279390084",
+                    "name": "Anonymous",
+                    "screen_name": "YourAnonNews",
+                    "location": "The Interwebs",
+                    "description": "We are Anonymous, we are legion, we do not forgive, we do not forget. Expect us. \n\nPrepared to go forward w/it. Here live. Not a cat.\n\n#Anonymous #HackThePlanet",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 7625697,
+                    "friends_count": 827,
+                    "listed_count": 15928,
+                    "created_at": "Sat Apr 09 05:10:37 +0000 2011",
+                    "favourites_count": 15863,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 188704,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1390018317864296450/bk21WUAT_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390018317864296450/bk21WUAT_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/279390084/1459539143",
+                    "profile_link_color": "000000",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FFFFFF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1594,
+                "favorite_count": 16162,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1594,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715018120110084,
+            "id_str": "1498715018120110084",
+            "text": "@Hugobie La Orquesta Filarmónica de Róterdam pone fin a la colaboración con el director de orquesta ruso Valery Ger… https://t.co/XPyHdUKp9N",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Hugobie",
+                        "name": "🇺🇦Hugo Biedermann M",
+                        "id": 161811831,
+                        "id_str": "161811831",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/XPyHdUKp9N",
+                        "expanded_url": "https://twitter.com/i/web/status/1498715018120110084",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 161811831,
+            "in_reply_to_user_id_str": "161811831",
+            "in_reply_to_screen_name": "Hugobie",
+            "user": {
+                "id": 1537699842,
+                "id_str": "1537699842",
+                "name": "monica zalazar",
+                "screen_name": "monkydavalos",
+                "location": "",
+                "description": "periodista, me gusta tener amigos y también los deportes",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 513,
+                "friends_count": 518,
+                "listed_count": 4,
+                "created_at": "Sat Jun 22 01:58:25 +0000 2013",
+                "favourites_count": 1668,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 23697,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000027395377/96d2588ab7f0fdd799ca8e156a16a0c8_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000027395377/96d2588ab7f0fdd799ca8e156a16a0c8_normal.jpeg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715018048663552,
+            "id_str": "1498715018048663552",
+            "text": "RT @ianbremmer: putin took a piece of georgia in 2008\ngot away with it \n\ntwo pieces of ukraine in 2014\ngot away with it \n\nmessed w us elect…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ianbremmer",
+                        "name": "ian bremmer",
+                        "id": 60783724,
+                        "id_str": "60783724",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 975397914011824128,
+                "id_str": "975397914011824128",
+                "name": "thor bjorn",
+                "screen_name": "thorbjorn18",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 53,
+                "friends_count": 399,
+                "listed_count": 1,
+                "created_at": "Sun Mar 18 15:45:59 +0000 2018",
+                "favourites_count": 62067,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 28506,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Mon Feb 28 23:13:10 +0000 2022",
+                "id": 1498436141359501314,
+                "id_str": "1498436141359501314",
+                "text": "putin took a piece of georgia in 2008\ngot away with it \n\ntwo pieces of ukraine in 2014\ngot away with it \n\nmessed w… https://t.co/Bxo8mOdfst",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/Bxo8mOdfst",
+                            "expanded_url": "https://twitter.com/i/web/status/1498436141359501314",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 60783724,
+                    "id_str": "60783724",
+                    "name": "ian bremmer",
+                    "screen_name": "ianbremmer",
+                    "location": "",
+                    "description": "political scientist, author, teach at columbia sipa, columnist at time, president @eurasiagroup, @gzeromedia. if you lived here, you'd be home now.",
+                    "url": "https://t.co/QWTw1TVJg4",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/QWTw1TVJg4",
+                                    "expanded_url": "https://ianbremmer.bulletin.com/",
+                                    "display_url": "ianbremmer.bulletin.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 627770,
+                    "friends_count": 1580,
+                    "listed_count": 9586,
+                    "created_at": "Tue Jul 28 02:23:28 +0000 2009",
+                    "favourites_count": 11130,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 67296,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1412173067904823298/rjTfso9L_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412173067904823298/rjTfso9L_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/60783724/1642623240",
+                    "profile_link_color": "3489B3",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "C0DFEC",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3235,
+                "favorite_count": 16970,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3235,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017939718150,
+            "id_str": "1498715017939718150",
+            "text": "RT @davegreenidge57: Who else feels that Putin’s ultimate goal doesn’t end at Ukraine?",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "davegreenidge57",
+                        "name": "Hey, Dave!",
+                        "id": 818295162740834305,
+                        "id_str": "818295162740834305",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1421868114866851843,
+                "id_str": "1421868114866851843",
+                "name": "Emmark",
+                "screen_name": "EmmarkOfficial",
+                "location": "",
+                "description": "Am a youtuber,content creator,and the C.E.O of Digzar and Video Shop Entertainment!!!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 59,
+                "friends_count": 296,
+                "listed_count": 0,
+                "created_at": "Sun Aug 01 16:19:23 +0000 2021",
+                "favourites_count": 2099,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 276,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1421868365812060161/IS4YIAty_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1421868365812060161/IS4YIAty_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 17:15:33 +0000 2022",
+                "id": 1498708531125669894,
+                "id_str": "1498708531125669894",
+                "text": "Who else feels that Putin’s ultimate goal doesn’t end at Ukraine?",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 818295162740834305,
+                    "id_str": "818295162740834305",
+                    "name": "Hey, Dave!",
+                    "screen_name": "davegreenidge57",
+                    "location": "Space Coast, FL",
+                    "description": "Int. news, science, history 🇺🇸🇧🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿 USAF (Ret) Bomb Tech/CBRN; U Mass, Industrial Sci. “Good Fortune favors the prepared mind”",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 13058,
+                    "friends_count": 12004,
+                    "listed_count": 27,
+                    "created_at": "Mon Jan 09 03:15:44 +0000 2017",
+                    "favourites_count": 53504,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 59788,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1483611584543051777/4zStovjz_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483611584543051777/4zStovjz_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/818295162740834305/1642637777",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 11,
+                "favorite_count": 90,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017906114568,
+            "id_str": "1498715017906114568",
+            "text": "RT @BillKristol: Never forget.\n\nLess than a week ago, Donald Trump expressed admiration for Vladimir Putin:\n\n“This is genius. How smart is…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "BillKristol",
+                        "name": "Bill Kristol",
+                        "id": 2800581040,
+                        "id_str": "2800581040",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 817805964049088515,
+                "id_str": "817805964049088515",
+                "name": "Marina_9876",
+                "screen_name": "marina__9876",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 142,
+                "friends_count": 1508,
+                "listed_count": 0,
+                "created_at": "Sat Jan 07 18:51:50 +0000 2017",
+                "favourites_count": 34026,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 12999,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/831486377338478593/uSjs4900_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/831486377338478593/uSjs4900_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 17:08:58 +0000 2022",
+                "id": 1498706876200009729,
+                "id_str": "1498706876200009729",
+                "text": "Never forget.\n\nLess than a week ago, Donald Trump expressed admiration for Vladimir Putin:\n\n“This is genius. How sm… https://t.co/5cNp0OHqKZ",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/5cNp0OHqKZ",
+                            "expanded_url": "https://twitter.com/i/web/status/1498706876200009729",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2800581040,
+                    "id_str": "2800581040",
+                    "name": "Bill Kristol",
+                    "screen_name": "BillKristol",
+                    "location": "",
+                    "description": "Director, https://t.co/JPcpCzAVjV. Editor at large, https://t.co/IFsNJFzEig. Host, https://t.co/wbwBfexLRN.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/JPcpCzAVjV",
+                                    "expanded_url": "http://defendingdemocracytogether.org",
+                                    "display_url": "defendingdemocracytogether.org",
+                                    "indices": [
+                                        10,
+                                        33
+                                    ]
+                                },
+                                {
+                                    "url": "https://t.co/IFsNJFzEig",
+                                    "expanded_url": "http://thebulwark.com",
+                                    "display_url": "thebulwark.com",
+                                    "indices": [
+                                        52,
+                                        75
+                                    ]
+                                },
+                                {
+                                    "url": "https://t.co/wbwBfexLRN",
+                                    "expanded_url": "http://conversationswithbillkristol.org",
+                                    "display_url": "conversationswithbillkristol.org",
+                                    "indices": [
+                                        83,
+                                        106
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 964222,
+                    "friends_count": 7341,
+                    "listed_count": 8040,
+                    "created_at": "Thu Oct 02 18:47:57 +0000 2014",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 45551,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/521747547648311296/Z-2ftHoZ_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/521747547648311296/Z-2ftHoZ_normal.png",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 622,
+                "favorite_count": 1972,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 622,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017784475648,
+            "id_str": "1498715017784475648",
+            "text": "RT @irma5913: Hackers say they changed the call sign for Putin's yacht with a special message to him https://t.co/95jEBHpNaA",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "irma5913",
+                        "name": "IRMA",
+                        "id": 611916693,
+                        "id_str": "611916693",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/95jEBHpNaA",
+                        "expanded_url": "https://www.rawstory.com/putin-yacht-call-sign-hacked/",
+                        "display_url": "rawstory.com/putin-yacht-ca…",
+                        "indices": [
+                            101,
+                            124
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1315528559432208384,
+                "id_str": "1315528559432208384",
+                "name": "Fabia Poli 🇺🇦",
+                "screen_name": "PoliFabia",
+                "location": "Zurich, Switzerland ",
+                "description": "Keen 🌏traveller, happily married, 2🐱, passionate reader, lover of words and puns. Be kind.\n❌DM's unless I know you.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1836,
+                "friends_count": 2232,
+                "listed_count": 1,
+                "created_at": "Mon Oct 12 05:44:00 +0000 2020",
+                "favourites_count": 32039,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 10918,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1375472888199970823/IGl35ZyD_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375472888199970823/IGl35ZyD_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315528559432208384/1613231994",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 08:01:56 +0000 2022",
+                "id": 1498569212398235649,
+                "id_str": "1498569212398235649",
+                "text": "Hackers say they changed the call sign for Putin's yacht with a special message to him https://t.co/95jEBHpNaA",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/95jEBHpNaA",
+                            "expanded_url": "https://www.rawstory.com/putin-yacht-call-sign-hacked/",
+                            "display_url": "rawstory.com/putin-yacht-ca…",
+                            "indices": [
+                                87,
+                                110
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 611916693,
+                    "id_str": "611916693",
+                    "name": "IRMA",
+                    "screen_name": "irma5913",
+                    "location": "",
+                    "description": "LOVE MY GOD, MY FAMILY, MY LIFE!\nNO DMs*****❤️♥️🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 8446,
+                    "friends_count": 8894,
+                    "listed_count": 31,
+                    "created_at": "Mon Jun 18 17:12:47 +0000 2012",
+                    "favourites_count": 43710,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 62118,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "131516",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1440549186039009293/HyRHkxql_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440549186039009293/HyRHkxql_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/611916693/1620627510",
+                    "profile_link_color": "DD2E44",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "E6F6F9",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 4,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017541304320,
+            "id_str": "1498715017541304320",
+            "text": "RT @MichelCaballero: Me pregunto si Rafael Poleo, Vecchio, Carla Angola,Doña Chirinos, Guaidó, Marta Colomina y el resto de los etc etc que…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MichelCaballero",
+                        "name": "Michel Caballero Palma",
+                        "id": 114909288,
+                        "id_str": "114909288",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1481368628524167177,
+                "id_str": "1481368628524167177",
+                "name": "Julio Pérez",
+                "screen_name": "JulioPr87942352",
+                "location": "",
+                "description": "Cubano",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 156,
+                "friends_count": 105,
+                "listed_count": 0,
+                "created_at": "Wed Jan 12 20:53:14 +0000 2022",
+                "favourites_count": 10330,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11059,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1481368967080030209/hd0PQ0KP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1481368967080030209/hd0PQ0KP_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 01:18:10 +0000 2022",
+                "id": 1498467599839072257,
+                "id_str": "1498467599839072257",
+                "text": "Me pregunto si Rafael Poleo, Vecchio, Carla Angola,Doña Chirinos, Guaidó, Marta Colomina y el resto de los etc etc… https://t.co/7Uj4o8IiSj",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/7Uj4o8IiSj",
+                            "expanded_url": "https://twitter.com/i/web/status/1498467599839072257",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 114909288,
+                    "id_str": "114909288",
+                    "name": "Michel Caballero Palma",
+                    "screen_name": "MichelCaballero",
+                    "location": "Siempre Venezuela ",
+                    "description": "Periodista 🇻🇪 \nPresentador @Agencia_VN/\n\nVTV Café en la Mañana/\nIguana TV",
+                    "url": "https://t.co/6SAeyGYo23",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/6SAeyGYo23",
+                                    "expanded_url": "https://www.instagram.com/elcaballerotv/",
+                                    "display_url": "instagram.com/elcaballerotv/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 66693,
+                    "friends_count": 1886,
+                    "listed_count": 161,
+                    "created_at": "Wed Feb 17 00:44:59 +0000 2010",
+                    "favourites_count": 19494,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 71278,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1484637684358389764/8VRUi6IJ_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484637684358389764/8VRUi6IJ_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/114909288/1618886695",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "C0DFEC",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 312,
+                "favorite_count": 304,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "es"
+            },
+            "is_quote_status": false,
+            "retweet_count": 312,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "es"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017444659200,
+            "id_str": "1498715017444659200",
+            "text": "@ggreenwald Putin aint dropping bombs on the latter.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ggreenwald",
+                        "name": "Glenn Greenwald",
+                        "id": 16076032,
+                        "id_str": "16076032",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1498697404501180418,
+            "in_reply_to_status_id_str": "1498697404501180418",
+            "in_reply_to_user_id": 16076032,
+            "in_reply_to_user_id_str": "16076032",
+            "in_reply_to_screen_name": "ggreenwald",
+            "user": {
+                "id": 1498239730240172032,
+                "id_str": "1498239730240172032",
+                "name": "Right Sector",
+                "screen_name": "RightSectorUK",
+                "location": "",
+                "description": "Nationalist. Ecologist. Revolutionary. Libertarian.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 85,
+                "listed_count": 0,
+                "created_at": "Mon Feb 28 10:12:54 +0000 2022",
+                "favourites_count": 56,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 580,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1498239910574235650/R7AfQNYw_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498239910574235650/R7AfQNYw_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017436438532,
+            "id_str": "1498715017436438532",
+            "text": "RT @jilevin: Holocaust Memorial and TV Tower Attacked in Putin's Sham 'Anti-Nazi' War https://t.co/yXHgFPuR6q",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jilevin",
+                        "name": "Jeffrey Levin 🇺🇦",
+                        "id": 24733117,
+                        "id_str": "24733117",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/yXHgFPuR6q",
+                        "expanded_url": "https://www.thedailybeast.com/russian-forces-attack-kyivs-tv-tower-holocaust-memorial-in-latest-ukraine-onslaught?source=articles&via=rss",
+                        "display_url": "thedailybeast.com/russian-forces…",
+                        "indices": [
+                            86,
+                            109
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1048819082,
+                "id_str": "1048819082",
+                "name": "predsfan28",
+                "screen_name": "predsfan28",
+                "location": "NSH🏒NSC⚽️TEN🏈MEM🏀",
+                "description": "\"The more I learn, the more I realize how much I don't know.\" — Albert Einstein",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 466,
+                "friends_count": 867,
+                "listed_count": 4,
+                "created_at": "Sun Dec 30 21:08:37 +0000 2012",
+                "favourites_count": 49035,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 12409,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1498424760660807688/2x1jxQug_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498424760660807688/2x1jxQug_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048819082/1646087642",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 17:41:06 +0000 2022",
+                "id": 1498714963455655947,
+                "id_str": "1498714963455655947",
+                "text": "Holocaust Memorial and TV Tower Attacked in Putin's Sham 'Anti-Nazi' War https://t.co/yXHgFPuR6q",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/yXHgFPuR6q",
+                            "expanded_url": "https://www.thedailybeast.com/russian-forces-attack-kyivs-tv-tower-holocaust-memorial-in-latest-ukraine-onslaught?source=articles&via=rss",
+                            "display_url": "thedailybeast.com/russian-forces…",
+                            "indices": [
+                                73,
+                                96
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 24733117,
+                    "id_str": "24733117",
+                    "name": "Jeffrey Levin 🇺🇦",
+                    "screen_name": "jilevin",
+                    "location": "San Jose, CA",
+                    "description": "Retired, progressive, human rights, politics, news junkie, equality, LGBTQ+, anti-racist, anti-fascist (AntiFa), #BLM #Resist",
+                    "url": "https://t.co/QozhrhAU8I",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/QozhrhAU8I",
+                                    "expanded_url": "http://www.linkedin.com/in/jeffreylevin",
+                                    "display_url": "linkedin.com/in/jeffreylevin",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 631076,
+                    "friends_count": 592523,
+                    "listed_count": 5217,
+                    "created_at": "Mon Mar 16 17:42:55 +0000 2009",
+                    "favourites_count": 42,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 806559,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "8B542B",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1498112732779859974/BrQJ6nn2_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498112732779859974/BrQJ6nn2_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24733117/1646012884",
+                    "profile_link_color": "FAB81E",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "EADEAA",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017377574913,
+            "id_str": "1498715017377574913",
+            "text": "RT @ferideccccdb: 5000 ABD  nükleer başlıklı  füzesi  ile  güvende  olduğunu  düşünen  var mı..\n\nPutin neden  Zelensky  gibi  bir soytarıyı…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ferideccccdb",
+                        "name": "Yılmaz Feride",
+                        "id": 1422623696938754051,
+                        "id_str": "1422623696938754051",
+                        "indices": [
+                            3,
+                            16
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "tr"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1188383019020759040,
+                "id_str": "1188383019020759040",
+                "name": "Hasan",
+                "screen_name": "hasan95605800",
+                "location": "",
+                "description": "Erzurum Ergenekon Altaylar",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 782,
+                "friends_count": 966,
+                "listed_count": 0,
+                "created_at": "Sun Oct 27 09:13:03 +0000 2019",
+                "favourites_count": 41719,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 21016,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1457230538448703488/9Y79O0AW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457230538448703488/9Y79O0AW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1188383019020759040/1636265810",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 17:32:08 +0000 2022",
+                "id": 1498712706630754304,
+                "id_str": "1498712706630754304",
+                "text": "5000 ABD  nükleer başlıklı  füzesi  ile  güvende  olduğunu  düşünen  var mı..\n\nPutin neden  Zelensky  gibi  bir soy… https://t.co/DMY4LV0O6Z",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/DMY4LV0O6Z",
+                            "expanded_url": "https://twitter.com/i/web/status/1498712706630754304",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "tr"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1422623696938754051,
+                    "id_str": "1422623696938754051",
+                    "name": "Yılmaz Feride",
+                    "screen_name": "ferideccccdb",
+                    "location": "",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 7146,
+                    "friends_count": 6878,
+                    "listed_count": 4,
+                    "created_at": "Tue Aug 03 18:21:52 +0000 2021",
+                    "favourites_count": 128595,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 27990,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1488216257350483972/mgKSl2-c_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488216257350483972/mgKSl2-c_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422623696938754051/1628605853",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1498664973878321157,
+                "quoted_status_id_str": "1498664973878321157",
+                "quoted_status": {
+                    "created_at": "Tue Mar 01 14:22:28 +0000 2022",
+                    "id": 1498664973878321157,
+                    "id_str": "1498664973878321157",
+                    "text": "Bu savaş Rusya ile ABD arasında Ukrayna ise sadece #SavaşMeydanı yani #Çimen! https://t.co/ygHJYxuGJl",
+                    "truncated": false,
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "SavaşMeydanı",
+                                "indices": [
+                                    51,
+                                    64
+                                ]
+                            },
+                            {
+                                "text": "Çimen",
+                                "indices": [
+                                    70,
+                                    76
+                                ]
+                            }
+                        ],
+                        "symbols": [],
+                        "user_mentions": [],
+                        "urls": [
+                            {
+                                "url": "https://t.co/ygHJYxuGJl",
+                                "expanded_url": "https://twitter.com/ti_mur_lular_9/status/1498659924703948800",
+                                "display_url": "twitter.com/ti_mur_lular_9…",
+                                "indices": [
+                                    78,
+                                    101
+                                ]
+                            }
+                        ]
+                    },
+                    "metadata": {
+                        "result_type": "recent",
+                        "iso_language_code": "tr"
+                    },
+                    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                    "in_reply_to_status_id": null,
+                    "in_reply_to_status_id_str": null,
+                    "in_reply_to_user_id": null,
+                    "in_reply_to_user_id_str": null,
+                    "in_reply_to_screen_name": null,
+                    "user": {
+                        "id": 1387318213793435651,
+                        "id_str": "1387318213793435651",
+                        "name": "Ahmet Özlü DB Yedek",
+                        "screen_name": "OzluDb",
+                        "location": "",
+                        "description": "DokuzEylül Üniversitesi İşletme Fakültesi. Turizm ve Otel işletmeciliği Y.O Lisans      #Lider-Teşkilat-Doktrin(Dava)",
+                        "url": null,
+                        "entities": {
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 1798,
+                        "friends_count": 2615,
+                        "listed_count": 1,
+                        "created_at": "Wed Apr 28 08:11:19 +0000 2021",
+                        "favourites_count": 29135,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": false,
+                        "statuses_count": 160760,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/1388532611623100416/h6L21_sp_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1388532611623100416/h6L21_sp_normal.jpg",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": true,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": null,
+                        "follow_request_sent": null,
+                        "notifications": null,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    },
+                    "geo": null,
+                    "coordinates": null,
+                    "place": null,
+                    "contributors": null,
+                    "is_quote_status": true,
+                    "quoted_status_id": 1498659924703948800,
+                    "quoted_status_id_str": "1498659924703948800",
+                    "retweet_count": 3,
+                    "favorite_count": 14,
+                    "favorited": false,
+                    "retweeted": false,
+                    "possibly_sensitive": false,
+                    "lang": "tr"
+                },
+                "retweet_count": 1,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "tr"
+            },
+            "is_quote_status": true,
+            "quoted_status_id": 1498664973878321157,
+            "quoted_status_id_str": "1498664973878321157",
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "tr"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017373528067,
+            "id_str": "1498715017373528067",
+            "text": "RT @lis_tomasz: Sky News powołując się  na źródła wywiadowcze podaje, ze Putin jest coraz bardziej sfrustrowany tym jak idzie mu wojna. Wsp…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "lis_tomasz",
+                        "name": "Tomasz Lis",
+                        "id": 800765605,
+                        "id_str": "800765605",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "pl",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1390265333441773571,
+                "id_str": "1390265333441773571",
+                "name": "Gizela Maciak",
+                "screen_name": "MaciakGizela",
+                "location": "",
+                "description": "Humor dowcip polityka",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 10,
+                "friends_count": 147,
+                "listed_count": 0,
+                "created_at": "Thu May 06 11:22:08 +0000 2021",
+                "favourites_count": 8812,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 908,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 17:34:02 +0000 2022",
+                "id": 1498713185091735557,
+                "id_str": "1498713185091735557",
+                "text": "Sky News powołując się  na źródła wywiadowcze podaje, ze Putin jest coraz bardziej sfrustrowany tym jak idzie mu wo… https://t.co/ShDAxtWbtc",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ShDAxtWbtc",
+                            "expanded_url": "https://twitter.com/i/web/status/1498713185091735557",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "pl",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 800765605,
+                    "id_str": "800765605",
+                    "name": "Tomasz Lis",
+                    "screen_name": "lis_tomasz",
+                    "location": "",
+                    "description": "Jeszcze nigdy nie wygrał ktoś, kto nie uwierzył w zwycięstwo",
+                    "url": "https://t.co/1E3Pn0Mz54",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/1E3Pn0Mz54",
+                                    "expanded_url": "https://tiny.pl/tt2bn",
+                                    "display_url": "tiny.pl/tt2bn",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1014169,
+                    "friends_count": 1328,
+                    "listed_count": 812,
+                    "created_at": "Mon Sep 03 16:44:34 +0000 2012",
+                    "favourites_count": 74210,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 49474,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2573340158/drthl4j3sffik8m3mpmu_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2573340158/drthl4j3sffik8m3mpmu_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/800765605/1570429785",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 22,
+                "favorite_count": 129,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "pl"
+            },
+            "is_quote_status": false,
+            "retweet_count": 22,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "pl"
+        },
+        {
+            "created_at": "Tue Mar 01 17:41:19 +0000 2022",
+            "id": 1498715017218338818,
+            "id_str": "1498715017218338818",
+            "text": "RT @b_judah: I am horrified it needs to be stated a \"No Fly Zone\" is a catastrophically stupid and would involve direct aerial combat with…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "b_judah",
+                        "name": "Ben Judah",
+                        "id": 217758017,
+                        "id_str": "217758017",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 325131539,
+                "id_str": "325131539",
+                "name": "Simpli Art #NOVOTERSUPPRESSION #JohnsonOut",
+                "screen_name": "SimpliArt",
+                "location": "London",
+                "description": "Hand Crafted Designs inspired from different cultures and inpirations from the world beautiful places...",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1776,
+                "friends_count": 681,
+                "listed_count": 8,
+                "created_at": "Mon Jun 27 19:53:37 +0000 2011",
+                "favourites_count": 290614,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 139539,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1469389330649128960/j8M7PMR5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469389330649128960/j8M7PMR5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/325131539/1361149997",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none",
+                "withheld_in_countries": []
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Mar 01 01:41:29 +0000 2022",
+                "id": 1498473465111887875,
+                "id_str": "1498473465111887875",
+                "text": "I am horrified it needs to be stated a \"No Fly Zone\" is a catastrophically stupid and would involve direct aerial c… https://t.co/mA4Xbq9M3O",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/mA4Xbq9M3O",
+                            "expanded_url": "https://twitter.com/i/web/status/1498473465111887875",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 217758017,
+                    "id_str": "217758017",
+                    "name": "Ben Judah",
+                    "screen_name": "b_judah",
+                    "location": "New York",
+                    "description": "Writer working on a book for @picadorbooks. Senior Fellow at @AtlanticCouncil. Author of This Is London and Fragile Empire — 🇬🇧🇫🇷. Instagram: 𝗯_𝗷𝘂𝗱𝗮𝗵.",
+                    "url": "https://t.co/DKUvbx3vLX",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/DKUvbx3vLX",
+                                    "expanded_url": "http://www.amazon.co.uk/dp/B017HNO8FA/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+                                    "display_url": "amazon.co.uk/dp/B017HNO8FA/…",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 61355,
+                    "friends_count": 5320,
+                    "listed_count": 1320,
+                    "created_at": "Sat Nov 20 12:57:57 +0000 2010",
+                    "favourites_count": 51488,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 5786,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1150918650146230279/d3Pg9O9j_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150918650146230279/d3Pg9O9j_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/217758017/1638418228",
+                    "profile_link_color": "3B94D9",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "none",
+                    "withheld_in_countries": []
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1479,
+                "favorite_count": 7977,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1479,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.089,
+        "max_id": 1498715018703126531,
+        "max_id_str": "1498715018703126531",
+        "next_results": "?max_id=1498715017218338817&q=Putin&include_entities=1",
+        "query": "Putin",
+        "refresh_url": "?since_id=1498715018703126531&q=Putin&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
