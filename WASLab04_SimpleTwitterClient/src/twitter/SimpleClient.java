@@ -32,7 +32,7 @@ public class SimpleClient {
 	public static void main(String[] args) throws TwitterException, IOException{
 	    StatusListener listener = new StatusListener(){
 	        public void onStatus(Status status) {
-	            System.out.println(status.getUser().getName() + " (" + status.getUser().getScreenName() + "): " + status.getText()); 
+	            System.out.println(status.getUser().getName() + " (@" + status.getUser().getScreenName() + "): " + status.getText()); 
 	        }
 	        @Override
 	        public void onDeletionNotice(StatusDeletionNotice statusDeletionNotice) {}
@@ -42,18 +42,12 @@ public class SimpleClient {
 	        public void onException(Exception ex) {
 	            ex.printStackTrace();
 	        }
-			
 	        @Override
-			public void onScrubGeo(long arg0, long arg1) {
-				// TODO Auto-generated method stub
-				
-			}
+			public void onScrubGeo(long arg0, long arg1) {}
 			@Override
-			public void onStallWarning(StallWarning arg0) {
-				// TODO Auto-generated method stub
-				
-			}
+			public void onStallWarning(StallWarning arg0) {}
 	    };
+	    
 	    TwitterStream twitterStream = new TwitterStreamFactory().getInstance();
 	    twitterStream.addListener(listener);
 	    
