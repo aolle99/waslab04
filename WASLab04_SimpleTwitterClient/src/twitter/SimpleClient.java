@@ -1,17 +1,13 @@
 package twitter;
 
 import java.io.IOException;
-import java.util.Date;
 
 import twitter4j.FilterQuery;
-import twitter4j.ResponseList;
 import twitter4j.StallWarning;
 import twitter4j.Status;
 import twitter4j.StatusDeletionNotice;
 import twitter4j.StatusListener;
-import twitter4j.Twitter;
 import twitter4j.TwitterException;
-import twitter4j.TwitterFactory;
 import twitter4j.TwitterStream;
 import twitter4j.TwitterStreamFactory;
 
@@ -36,7 +32,7 @@ public class SimpleClient {
 	public static void main(String[] args) throws TwitterException, IOException{
 	    StatusListener listener = new StatusListener(){
 	        public void onStatus(Status status) {
-	            System.out.println(status.getUser().getName() + " : " + status.getText());
+	            System.out.println(status.getUser().getName() + " (" + status.getUser().getScreenName() + "): " + status.getText()); 
 	        }
 	        @Override
 	        public void onDeletionNotice(StatusDeletionNotice statusDeletionNotice) {}
